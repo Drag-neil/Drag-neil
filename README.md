@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SohamMukherjee
 - 👀 I’m interested in Computer and Tech
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development Javascript
 - 💞️ I’m looking to collaborate on Beginner-level-WebDev Projects
-- 📫 How to reach me 
+- 📫 Reach me at mail:- sohammukherjee508@gmail.com
 
 <!---
 Drag-neil/Drag-neil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
