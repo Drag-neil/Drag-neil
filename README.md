@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Drag-neil
+- 👋 Hi, I’m @SohamMukherjee
 - 👀 I’m interested in Computer and Tech
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Beginner-level-WebDev Projects
